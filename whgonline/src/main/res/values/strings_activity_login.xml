@@ -1,0 +1,16 @@
+<resources>
+    
+    <!-- Strings related to login -->
+    <string name="prompt_username">Benutzername</string>
+    <string name="prompt_password">Passwort</string>
+
+    <string name="action_sign_in">Einloggen</string>
+
+    <string name="action_register">Registrieren</string>
+
+    <string name="login_progress_signing_in">Einloggen&#8230;</string>
+
+    <string name="error_invalid_username">Benutzername ist zu kurz</string>
+    <string name="error_invalid_password">Passwort ist zu kurz</string>
+    <string name="error_field_required">Dieses Feld wird benötigt</string>
+</resources>

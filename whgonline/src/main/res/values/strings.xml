@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">whgonline</string>
+    <string name="title_activity_vplan">Vertretungsplan</string>
+
+    <string name="action_logout">Ausloggen</string>
+
+</resources>
